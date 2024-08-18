@@ -4,8 +4,8 @@
 
 
 
-# Project Name
-Once a Dinosaur Always A Dinosuar- it is a brief story of a dinosaur fighting it's way back from extinction. Much more twists awaits....
+# Once A Dino Always A Dino
+Once a Dino Always A Dino- it is a brief story of a dinosaur fighting it's way back from extinction. Much more twists awaits....
 ## Team members
 1. [Sreeran V Gopal](https://github.com/SR-005)
 2. [Shahrukh Dawood](https://github.com/Shakmoot)
