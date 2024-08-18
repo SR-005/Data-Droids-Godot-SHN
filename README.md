@@ -19,7 +19,5 @@ godot engine
 ## How to configure
 Instructions for setting up project
 ## How to Run
-run the OADAAD.exe file
-Instructions for running
+run the OADAAD.exe file , 
 Supported Platforms: WINDOWS
-run the OADAAD.exe file
