@@ -5,7 +5,7 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+Once a Dinosaur Always A Dinosuar- it is a brief story of a dinosaur fighting it's way back from extinction. Much more twists awaits....
 ## Team members
 1. [Sreeran V Gopal](https://github.com/SR-005)
 2. [Shahrukh Dawood](https://github.com/Shakmoot)
@@ -13,11 +13,13 @@ Long Description about project. This project do that. This project is awesome...
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. Auto Run, SPACE to jump
 ## Libraries used
-Library Name - Version
+godot engine
 ## How to configure
 Instructions for setting up project
 ## How to Run
+run the OADAAD.exe file
 Instructions for running
+Supported Platforms: WINDOWS
+run the OADAAD.exe file
